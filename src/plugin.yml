@@ -1,0 +1,9 @@
+name: TotemStocks
+version: 1
+author: Zach_FR
+main: TotemStocks.Main
+description: Stockage Totem
+
+commands:
+  setnpc:
+    description: Create NPC
